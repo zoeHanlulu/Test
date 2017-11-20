@@ -1,0 +1,14 @@
+#box {
+    position:absolute;
+    width: 300px;
+    height:200px;
+    left:0;
+    top: 0;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 8px #000;
+    background-color: aqua;
+}
+p {
+    text-align: center;
+    cursor: move;
+}
